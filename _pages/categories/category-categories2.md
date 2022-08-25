@@ -1,7 +1,7 @@
 ---
-title: "Categories2"
+title: "CSS"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/css/
 author_profile: true
 taxonomy: Categories2
 sidebar:

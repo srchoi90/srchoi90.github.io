@@ -1,7 +1,7 @@
 ---
-title: "Categories3"
+title: "JS"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/js/
 author_profile: true
 taxonomy: Categories3
 sidebar:

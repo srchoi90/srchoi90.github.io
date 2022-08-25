@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /category-html/html-basic/
+permalink: /html/html-basic/
 
 toc: true
 toc_sticky: true

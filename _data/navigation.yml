@@ -19,8 +19,8 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "HTML"
-    url: /categories/category-html/
+    url: /categories/html/
   - title: "CSS"
-    url: /categories/category-css/
+    url: /categories/css/
   - title: "JS"
-    url: /categories/category-js/
+    url: /categories/js/
